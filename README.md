@@ -60,7 +60,7 @@ RAG와 몬테카를로 시뮬레이션으로 안전한 포트폴리오 제안.
 </td>
 <td align="left">
 <b>훼손된 탁본 복원 AI 서비스 (Backend)</b><br>
-멀티모달 AI(OCR + Inpainting)를 활용한 고문서 복원 및 번역.
+멀티모달 AI를 활용한 고문서 복원 및 번역.
 </td>
 </tr>
 <tr>
