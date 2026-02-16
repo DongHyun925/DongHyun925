@@ -28,6 +28,19 @@
 <tbody>
 <tr>
 <td align="center">
+<a href="https://github.com/DongHyun925/MediGraph"><b>🩺 MediGraph</b></a>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Agent-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="Agent"><br>
+<img src="https://img.shields.io/badge/NLP-FFD21E?style=flat-square&logo=python&logoColor=white" alt="NLP">
+</td>
+<td align="left">
+<b>LangGraph 기반 지능형 의료 진단 및 팩트체크 시스템</b><br>
+환자 맞춤형 문진부터 응급 감지, RAG 기반 의학 근거 검증까지 수행하는 멀티 에이전트.
+</td>
+</tr>
+<tr>
+<td align="center">
 <a href="https://github.com/DongHyun925/SmishingForecast"><b>🛡️ SmishingForecast</b></a>
 </td>
 <td align="center">
